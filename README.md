@@ -3,6 +3,8 @@
 DBMS project made using **MySQL** to manage college events, clubs, venues, and student registrations at **IIIT Nagpur**.  
 Includes main fests like *Abhivyakti*, *Kshitij*, *Tantra Fiesta*, and *E-Summit*, plus club events from Estoria, D Taraxia, Elevate, IOTics, and more.
 
+Screenshots of the outputs of the queries - https://docs.google.com/document/d/1BEgBoQUql-V5gzRRGlF9_hjWHhEzzf3i7lbaD9t_GBc/edit?usp=sharing
+
 ---
 
 ## 📁 Database Overview
